@@ -29,6 +29,7 @@ while True:
                 print(ack) 
                 i+=s
 ```
+```
 Server.py
 import socket 
 s=socket.socket() 
