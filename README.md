@@ -38,6 +38,7 @@ while True:
     print(s.recv(1024).decode()) 
     s.send("acknowledgement recived from the server".encode())
     ```
+```
 ## OUPUT
 ![Screenshot 2024-10-29 140220](https://github.com/user-attachments/assets/652f6fa7-a67d-4849-b706-c8b82b66c9e2)
 
